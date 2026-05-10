@@ -9,7 +9,7 @@ Removes the reloading logic from GTA and replaces it with a more realistic way o
 Features
 
 Maximum ammunition is the size of the clip size.
-Reloading only works if you possess a specific item in your inventory (only ESX).
+Reloading only works if you possess a specific item in your inventory (only Qbcore).
 You cannot reload if your clip size is full.
 One reload equals the maximum amount of ammunition in the clip size.
 Usage
